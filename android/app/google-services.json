@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362570112529",
+    "project_id": "fir-learningproject-60715",
+    "storage_bucket": "fir-learningproject-60715.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362570112529:android:9c9a8a00b884752067dbb0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learning_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD710wpTgJMgaA4zm3oop8cyr4dmegHmbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362570112529:android:f8039be1f2c7574767dbb0",
+        "android_client_info": {
+          "package_name": "com.suryasoft.quickseatreservation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD710wpTgJMgaA4zm3oop8cyr4dmegHmbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
